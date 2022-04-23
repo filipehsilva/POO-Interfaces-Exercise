@@ -1,0 +1,15 @@
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\bin\Debug\net6.0\InterfacesFinalExercise.exe
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\bin\Debug\net6.0\InterfacesFinalExercise.deps.json
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\bin\Debug\net6.0\InterfacesFinalExercise.runtimeconfig.json
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\bin\Debug\net6.0\InterfacesFinalExercise.dll
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\bin\Debug\net6.0\InterfacesFinalExercise.pdb
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.csproj.AssemblyReference.cache
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.AssemblyInfoInputs.cache
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.AssemblyInfo.cs
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.csproj.CoreCompileInputs.cache
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.dll
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\refint\InterfacesFinalExercise.dll
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.pdb
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\InterfacesFinalExercise.genruntimeconfig.cache
+C:\dev\InterfacesFinalExercise\InterfacesFinalExercise\obj\Debug\net6.0\ref\InterfacesFinalExercise.dll
